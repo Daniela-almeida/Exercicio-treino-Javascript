@@ -2,7 +2,7 @@
 
 IF E ELSE 
 
-Primiero commit de código de treinos de minis exercicios que estou fazendo
+Primeiro commit de código de treinos de minis exercicios que estou fazendo
 de js, para colocar em prática o que estou aprendendo  no curso de full stack.
 
 
